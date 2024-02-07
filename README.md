@@ -36,14 +36,14 @@ Experiment with the provided examples, modify the code, and observe the results.
 ## Topics Covered
 
 The repository covers the following fundamental C++ topics:
-
-- Variables and Data Types
-- Control Flow (if statements, loops)
-- Functions and Scope
-- Arrays, Vectors, and STL Containers
-- File Handling
-- Exception Handling
-- Object-Oriented Programming (OOP) Basics
+- Classes
+- Files
+- Functions
+- Headers
+- Loops
+- Securely Working with Strings
+- Starting with C++ and Security
+- Vulnerability Examples
 
 Each topic is explained with examples and exercises to reinforce your understanding.
 
