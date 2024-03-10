@@ -36,11 +36,15 @@ Experiment with the provided examples, modify the code, and observe the results.
 ## Topics Covered
 
 The repository covers the following fundamental C++ topics:
+- Arrays
 - Classes
 - Files
 - Functions
 - Headers
 - Loops
+- Name Space
+- Pointers
+- Vectors
 - Securely Working with Strings
 - Starting with C++ and Security
 - Vulnerability Examples
