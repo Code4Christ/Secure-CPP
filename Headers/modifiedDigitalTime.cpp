@@ -172,3 +172,5 @@ void read_hour(istream& ins, int& the_hour)
         throw DigitalTimeException(106, " This is completely messed up! Error illegal input to read_hour\n");
 	}
 }
+
+
