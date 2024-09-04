@@ -1,6 +1,6 @@
 # C++ Development
 
-Welcome to the C++ Fundamentals Repository! This repository is designed to cover the basics of C++ programming, providing essential concepts and examples for beginners.
+Welcome to the C++ Development Repository! This repository is designed to cover the basics of C++ programming, and goes a bit deeper with some security examples, providing essential concepts and examples for beginners, and myself when I forget!
 
 ## Table of Contents
 - [Introduction](#introduction)
