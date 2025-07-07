@@ -19,7 +19,7 @@ This repository serves as a learning resource for individuals looking to grasp t
 To get started with C++ programming using this repository, follow these steps:
 
 1. **Clone the Repository:**
-git clone https://github.com/your-username/cpp-fundamentals.git
+git clone https://github.com/Code4Christ/Secure-CPP.git
 
 vbnet
 Copy code
